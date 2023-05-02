@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "final-project-shivani-ale",
+  "private_key_id": "564085bdbaef0d073376b5ca9137b86cf9fc90cc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDdzepRku6wdTo3\nwQgvv0xt91rG2DgK4t6VtrfL66MYXSTVQhaxdBtSypm3e/LEuYouO6+s146xUl9W\ncwtRXhpjNeApYCoq+ZARGyJSNLaNB6ZRwgJ+ORIhRx9le5S8wnIQeJYu/YjhFuCV\n0mFIRMPJSBezWSgzKTiWoNncsc/1EADGMxMhmcvpM1LJOZeQoMyf+Cu6Usxpq+cV\nnfVWKUAKT1ZOuX/Wq5vJI1hPWcYwWdqdsas1C9q0HK2ae431fe2lLT+vFUJ1x4GR\nQ9pDsq42Q1QViZKUDwFqSZp5DZA1R+WN/LTROps5C4nONA2ADUxuKPFul+tXRya6\nJ4jsmMUDAgMBAAECggEAXN8oesmMGeSr4MZ5mAyAgxbsMpA8PwqpaoScRs0+eCgg\nEQ9gEyNrgWoFnRdQGmEZ46voLfX/8G1uL/NxzLsbT2kymACFB4OBeDglUchym3CV\nimwywQlCdx6hnct2Budf/VeQgtJz6tO6a+EwDKOGWxRNoDH3rBxZbnChaFAnpBMs\np0piUwp9FxUP8hfy5rSHcKE/jVU8SgLEXW7U1xscOZ8akhyf19gsuHC2KR+1s0uv\nqasLZzOcpt/qj6KCBl8sCpAJ1sxXfiE19uCw1BqKyUg7U2sc9Cty+JtZKzWKtw3Y\ngiQTviaCHlYWqafUDaEq4tBZ/5OUu33RrvDnZKzW4QKBgQD2Nr11z+EKNV+Olj5B\n4jT1Af7V+W9IfHl5RRxDB4RL1BkS8YyTXdCpTfdTUeVPHO3ZshdcnsZsUsB2ISjF\ngPs4raQPvGugmAcwF7c8goWQOqaVBMHUfkefDbra1pAN3GenIHqBpmz8nlPNgtYR\nMY8RpohjYcoK2BpVrpzowY2n8QKBgQDmns4yrv7wM+VQbs0NlHRPzW8c/WFxcXuy\nPdnrWI/IersutRKPYcP7pVqoz4nNbQ/JKC3rtv9hWjMSPuKc75s16pO3Uvcd/E6M\nhve+voX38yHIdpWt1yh68XdAKnu8wq5y/PKNJ1SXLgqA3G4eScxpe0HDen2M6qjt\n68BzlDVQMwKBgQCGqEuYWngmwCgh8LPeDpyN/2hjmIcvarx5Ab5CPqMxYa/Q94C9\nvEp5viVtUVYLnbPMIyW5xzCYX+3Y7avB0RgU2Iro/FEUxPDxcZcKpgvsZNdkmvRz\nhhkfuT+fnkes/QVHl3DI5b+nreQBevQe9S7dJWpkiEAbDDPi9pvkhK830QKBgQCQ\nQGsX1tAOLVfVfMj0IpSySfyjdHYcAHDv57JEfGvLacFlkMtgNjXhVOelSdOXVA2Y\ntHIsy5VoLoRdeEpFAbbi/ayR8eoyrlvvmIikngWsNz89ZbdwOnHOnPULhMdLJbb6\no++PjTdjLOBTBA45Ec4zeG6FODwKBcnOsDT71ouWcwKBgQCPBqptRxHM+MkwwLr/\n+BkaQGamI8a+f9+qS3HRB+F9/MHu/nO9TzA8zVIBihKTtkWz4QhMhRQm2vW2rEbG\njZzY5ReA1BCEhfGJIyJHiqcqBmP2FLnhCKI5BPLw4EoHrMHAVjTh272dwddaVOuR\nYxevYnav30KnFQEicfRncuLk8g==\n-----END PRIVATE KEY-----\n",
+  "client_email": "shivani@final-project-shivani-ale.iam.gserviceaccount.com",
+  "client_id": "115013275381745246922",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/shivani%40final-project-shivani-ale.iam.gserviceaccount.com"
+}
